@@ -157,14 +157,16 @@ const About = () => {
 
         <StyledPic>
           <div className="wrapper">
-            <StaticImage
-              className="img"
-              src="../../images/me.jpg"
-              width={500}
-              quality={95}
-              formats={['AUTO', 'WEBP', 'AVIF']}
-              alt="Headshot"
-            />
+            <a href="https://www.pixiv.net/artworks/51084962">
+              <StaticImage
+                className="img"
+                src="../../images/me.png"
+                width={500}
+                quality={95}
+                formats={['AUTO', 'WEBP', 'AVIF']}
+                alt="Headshot"
+              />
+            </a>
           </div>
         </StyledPic>
       </div>
