@@ -1,7 +1,7 @@
 ---
 date: '2023-6-1'
 title: 'Teacher Management System'
-github: 'https://github.com/Fr4nk1in-USTC/teacher-record-app'
+github: 'https://github.com/Fr4nk1inCs/teacher-record-app'
 external: ''
 ios: ''
 android: ''

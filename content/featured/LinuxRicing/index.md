@@ -2,7 +2,7 @@
 date: '1'
 title: 'RICEd Linux dotfiles'
 cover: './demo.png'
-github: 'https://github.com/Fr4nk1in-USTC/dotfiles'
+github: 'https://github.com/Fr4nk1inCs/dotfiles'
 cta: ''
 tech:
   - Linux
