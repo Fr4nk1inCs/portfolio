@@ -15,4 +15,4 @@ range: 'September 2020 - Present'
     </a>
   Program.
   </p>
-- Ranked among the top 10% of the students majoring in CS.
+- Ranked among the top 7% of the students majoring in CS.
