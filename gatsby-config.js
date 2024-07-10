@@ -3,7 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Shen Fu',
-    description: 'Shen Fu is a CS senior undergraduate in USTC.',
+    description: 'Shen Fu is a CS graduate student at USTC.',
     siteUrl: 'https://fr4nk1in.top', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Fr4nk1inCs',

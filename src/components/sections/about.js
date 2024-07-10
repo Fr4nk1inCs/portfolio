@@ -141,7 +141,7 @@ const About = () => {
             </p>
 
             <p>
-              I’ve been studying computer science at USTC for three years. During this period, I’ve
+              I’ve been studying computer science at USTC for four years. During this period, I’ve
               learnt lots of techniques, developed a good coding style and dived into some
               mechanisms of computing systems. I can’t wait to apply what I have learnt into any
               projects.

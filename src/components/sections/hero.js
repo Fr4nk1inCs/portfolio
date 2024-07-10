@@ -62,19 +62,16 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Shen Fu.</h2>;
-  const three = <h3 className="big-heading">I’m ready for any coding.</h3>;
+  const three = <h3 className="big-heading">Exploring the electronic world.</h3>;
   const four = (
     <>
       <p>
-        I’m a senior undergraduate student at{' '}
-        <a href="https://en.scgy.ustc.edu.cn/" target="_blank" rel="noreferrer">
-          USTC-SCGY
+        I’m a graduate student at{' '}
+        <a href="https://ustc.edu.cn/" target="_blank" rel="noreferrer">
+          USTC
         </a>
-        , majoring in CS. I’m also a daily Linux user who love{' '}
-        <a href="https://www.reddit.com/r/unixporn/" target="_blank" rel="noreferrer">
-          Linux Ricing
-        </a>
-        . Currently, I’m studying how to provide systematic support for AI/ML and speed them up.
+        , majoring in CS. Currently, I’m studying how to provide systematic
+        support for AI/ML, especially in the field of Deep Learning Compiler.
       </p>
     </>
   );

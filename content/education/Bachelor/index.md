@@ -5,7 +5,7 @@ degree: 'B.E.'
 major: 'Computer Science and Technology'
 school: 'University of Science and Technology of China'
 location: 'Anhui, China'
-range: 'September 2020 - Present'
+range: 'September 2020 - June 2024'
 ---
 
 - <p>
